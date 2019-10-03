@@ -1,0 +1,25 @@
+.basis {
+  background-color: yellow;
+  height: 530px;
+  width: 300px;
+  border: 0.5em dashed red;
+}
+
+div {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  font-size: 17px;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 40px;
+  border-width: 5px 0px;
+  border-style: solid;
+}
+
+.bold {
+  font-size: 20px;
+  font-weight: bold;
+}

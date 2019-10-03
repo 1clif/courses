@@ -1,0 +1,21 @@
+p {
+  font-size: 20px;
+  color: darkgray;
+  text-indent: 30px;
+}
+
+p:first-child {
+  color: pink;
+}
+
+p:nth-child(even) {
+  font-variant: small-caps;
+}
+
+p:nth-child(2) {
+  border:5px solid violet;
+}
+
+p:last-child{
+  text-transform: uppercase;
+}
