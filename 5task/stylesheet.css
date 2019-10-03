@@ -14,12 +14,12 @@ div {
 
 h1 {
   display: inline-block;
-  font-size: 40px;
-  border-width: 5px 0px;
+  font: bold 60px fantasy;
+  border-width: 8px 0px;
   border-style: solid;
+  margin: 7px 10px;
 }
 
 .bold {
-  font-size: 20px;
-  font-weight: bold;
+  font: bold 20px fantasy;
 }
